@@ -44,16 +44,6 @@ Research Scientist at NYU Abu Dhabi (MEG/EEG labs) · System Designer (Airbus De
 
 (See pinned repositories below)
 
----
-
-## 📊 GitHub / Activity
-![Hadi's github stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB&show_icons=true&theme=dark)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB&layout=compact&theme=dark)
-
----
-
-## 🏷️ Badges & Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB&theme=dark)
 
 ---
 
