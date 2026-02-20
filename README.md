@@ -9,7 +9,7 @@
 
 ---
 
-## About — short and to the point
+## About
 Doctor of Engineering focused on modelling & simulation of dynamical systems with 10+ years in academic & industry (neuroimaging, MBSE, autonomous systems).  
 Research Scientist at NYU Abu Dhabi (MEG/EEG labs) · System Designer (Airbus Defence & Space) · geomstats contributor.  
 **Now:** building reproducible neuroimaging analysis tools and simulation-driven research pipelines.
@@ -43,7 +43,6 @@ Research Scientist at NYU Abu Dhabi (MEG/EEG labs) · System Designer (Airbus De
 - Autonomous systems MBSE demos (Airbus collaborations)
 
 (See pinned repositories below)
-
 
 ---
 
