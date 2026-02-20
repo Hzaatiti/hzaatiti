@@ -14,8 +14,6 @@ Doctor of Engineering focused on modelling & simulation of dynamical systems wit
 Research Scientist at NYU Abu Dhabi (MEG/EEG labs) · System Designer (Airbus Defence & Space) · geomstats contributor.  
 **Now:** building reproducible neuroimaging analysis tools and simulation-driven research pipelines.
 
-> CV / more details: [Open CV (PDF)](./CV_Hadi_ZAATITI_ENGLISH_MEG_EEG_Research.pdf) :contentReference[oaicite:1]{index=1}
-
 ---
 
 ## 🔭 Current Focus
