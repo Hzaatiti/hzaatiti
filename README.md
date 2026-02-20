@@ -36,7 +36,7 @@ Research Scientist at NYU Abu Dhabi (MEG/EEG labs) · System Designer (Airbus De
 ## ✨ Featured Projects
 ### Neurowaves — MEG/EEG analysis & tools
 - Docs & API: https://neurowaves.readthedocs.io/en/latest/  
-- Repo: `github.com/<your-org>/neurowaves` — pipelines, visualizations, reproducible examples.
+- Repo: [neurowaves-lab-documentation](https://github.com/BioMedicalImaging-Core-NYUAD/neurowaves-lab-documentation) — pipelines, visualizations, reproducible examples.
 
 ### Selected
 - **geomstats.ai** — manifold learning & geometry tooling (contributor)
